@@ -1081,7 +1081,7 @@ header nav ul li img{
     .wrapper {
         height: 724px;
         padding-bottom: 40px;
-        min-width: 410px;
+        min-width: 400px;
     }
     
     .container {
@@ -2696,5 +2696,6 @@ header nav ul li img{
 .footer-nav a {
     transition: all 0.3s ease;
 }
+
 
 
