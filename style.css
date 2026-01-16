@@ -963,8 +963,9 @@ header nav ul li img{
 /* животные */
 .form-animals {
     position: absolute;
-    top: -25px;
+    top: -45px;
     z-index: 2;
+    max-width: 400px;
 }
 
 /* форма */
@@ -982,9 +983,9 @@ header nav ul li img{
 /* заголовок */
 .form-title {
     margin-bottom: 30px;
-    font-size: 36px;
-    background: linear-gradient(30deg, #75d0fd, #0a8df1);
-    -webkit-text-fill-color: transparent;
+    font-size: 35px;
+    color: #0ebbff;
+    z-index: 2;
 }
 
 /* поля */
@@ -2395,9 +2396,9 @@ header nav ul li img{
 @media (min-width: 1025px) {
     .form-animals {
         width: auto;
-        max-width: 300px;
+        max-width: 500px;
         position: absolute;
-        top: -25px;
+        top: 5px;
         left: 50%;
         transform: translateX(-50%);
         z-index: 2;
