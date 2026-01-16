@@ -1188,6 +1188,11 @@ header nav ul li img{
     header nav ul {
         gap: 15px;
     }
+    .wrapper {
+        height: 724px;
+        padding-bottom: 40px;
+        min-width: 410px;
+    }
     
     header nav ul li a {
         font-size: 14px;
@@ -2696,6 +2701,7 @@ header nav ul li img{
 .footer-nav a {
     transition: all 0.3s ease;
 }
+
 
 
 
